@@ -1,0 +1,5807 @@
+count minimax: 0
+alpha beta black: 39905
+XXXXXXXX
+XXXX-XXX
+---X----
+--------
+--------
+--------
+OOOOOOOO
+OOOOOOOO
+
+XXXXXXXX
+XXXX-XXX
+---X----
+--------
+--------
+------O-
+OOOOO-OO
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 83848
+XXXXXXXX
+XXX--XXX
+---XX---
+--------
+--------
+------O-
+OOOOO-OO
+OOOOOOOO
+
+XXXXXXXX
+XXX--XXX
+---XX---
+--------
+--------
+-----OO-
+OOOO--OO
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 139785
+XXXXXXXX
+XXX--XXX
+---X----
+---X----
+--------
+-----OO-
+OOOO--OO
+OOOOOOOO
+
+XXXXXXXX
+XXX--XXX
+---X----
+---X----
+--------
+---O-OO-
+OO-O--OO
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 223885
+XXXXXXXX
+XXX--XXX
+---X----
+--------
+---X----
+---O-OO-
+OO-O--OO
+OOOOOOOO
+
+XXXXXXXX
+XXX--XXX
+---X----
+--------
+---X----
+--OO-OO-
+O--O--OO
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 261375
+XXXXXXXX
+XXX--XXX
+---X----
+--------
+--------
+--XO-OO-
+O--O--OO
+OOOOOOOO
+
+XXXXXXXX
+XXX--XXX
+---X----
+--------
+--------
+--OO-OO-
+O-----OO
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 325121
+XXXXXXXX
+X-X--XXX
+--XX----
+--------
+--------
+--OO-OO-
+O-----OO
+OOOOOOOO
+
+XXXXXXXX
+X-X--XXX
+--XX----
+--------
+-----O--
+--OO-O--
+O-----OO
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 393811
+XXXXXXXX
+X-X--XXX
+--X-----
+----X---
+-----O--
+--OO-O--
+O-----OO
+OOOOOOOO
+
+XXXXXXXX
+X-X--XXX
+--X-----
+----O---
+--------
+--OO-O--
+O-----OO
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 452026
+XXXXXXXX
+X-X---XX
+--X--X--
+----O---
+--------
+--OO-O--
+O-----OO
+OOOOOOOO
+
+XXXXXXXX
+X-X---XX
+--X--O--
+--------
+--------
+--OO-O--
+O-----OO
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 487164
+XXXXXXXX
+X-X----X
+--X--X--
+--------
+--------
+--OO-O--
+O-----OO
+OOOOOOOO
+
+XXXXXXXX
+X-X----X
+--X--X--
+--------
+--------
+--OO-O--
+OO----OO
+OO-OOOOO
+
+count minimax: 0
+alpha beta black: 549205
+XXXXXXXX
+X-X----X
+-----X--
+---X----
+--------
+--OO-O--
+OO----OO
+OO-OOOOO
+
+XXXXXXXX
+X-X----X
+-----X--
+---X----
+----O---
+--OO----
+OO----OO
+OO-OOOOO
+
+count minimax: 0
+alpha beta black: 590111
+XXXXXXXX
+X-X----X
+-----X--
+--------
+----X---
+--OO----
+OO----OO
+OO-OOOOO
+
+XXXXXXXX
+X-X----X
+-----X--
+--------
+----O---
+--O-----
+OO----OO
+OO-OOOOO
+
+count minimax: 0
+alpha beta black: 638719
+XXXXXXXX
+X------X
+---X-X--
+--------
+----O---
+--O-----
+OO----OO
+OO-OOOOO
+
+XXXXXXXX
+X------X
+---X-X--
+--------
+----O---
+--O---O-
+OO----O-
+OO-OOOOO
+
+count minimax: 0
+alpha beta black: 718598
+XXXXXXXX
+X------X
+---X----
+-----X--
+----O---
+--O---O-
+OO----O-
+OO-OOOOO
+
+XXXXXXXX
+X------X
+---X----
+-----O--
+--------
+--O---O-
+OO----O-
+OO-OOOOO
+
+count minimax: 0
+alpha beta black: 762683
+XXXX-XXX
+X---X--X
+---X----
+-----O--
+--------
+--O---O-
+OO----O-
+OO-OOOOO
+
+XXXX-XXX
+X---X--X
+---X----
+-----O--
+--------
+--O---OO
+OO------
+OO-OOOOO
+
+count minimax: 0
+alpha beta black: 817753
+XXXX-XXX
+X---X---
+---X--X-
+-----O--
+--------
+--O---OO
+OO------
+OO-OOOOO
+
+XXXX-XXX
+X---X---
+---X--O-
+--------
+--------
+--O---OO
+OO------
+OO-OOOOO
+
+count minimax: 0
+alpha beta black: 849853
+XXXX--XX
+X---XX--
+---X--O-
+--------
+--------
+--O---OO
+OO------
+OO-OOOOO
+
+XXXX--XX
+X---XO--
+---X----
+--------
+--------
+--O---OO
+OO------
+OO-OOOOO
+
+count minimax: 0
+alpha beta black: 853444
+XXXX---X
+X---XX--
+---X----
+--------
+--------
+--O---OO
+OO------
+OO-OOOOO
+
+XXXX---X
+X---XX--
+---X----
+--------
+--------
+--O---OO
+OO----O-
+OO-OOO-O
+
+count minimax: 0
+alpha beta black: 880381
+XXXX---X
+X---X---
+---X-X--
+--------
+--------
+--O---OO
+OO----O-
+OO-OOO-O
+
+XXXX---X
+X---X---
+---X-X--
+--------
+--------
+-OO---OO
+O-----O-
+OO-OOO-O
+
+count minimax: 0
+alpha beta black: 903812
+XXXX----
+X---X-X-
+---X-X--
+--------
+--------
+-OO---OO
+O-----O-
+OO-OOO-O
+
+XXXX----
+X---X-X-
+---X-X--
+--------
+-------O
+-OO----O
+O-----O-
+OO-OOO-O
+
+count minimax: 0
+alpha beta black: 943633
+XXXX----
+X---X-X-
+---X----
+------X-
+-------O
+-OO----O
+O-----O-
+OO-OOO-O
+
+XXXX----
+X---X-X-
+---X----
+------O-
+--------
+-OO----O
+O-----O-
+OO-OOO-O
+
+count minimax: 0
+alpha beta black: 971338
+XXXX----
+X-----X-
+---X-X--
+------O-
+--------
+-OO----O
+O-----O-
+OO-OOO-O
+
+XXXX----
+X-----X-
+---X-O--
+--------
+--------
+-OO----O
+O-----O-
+OO-OOO-O
+
+count minimax: 0
+alpha beta black: 975745
+XXXX----
+X-------
+---X-X--
+--------
+--------
+-OO----O
+O-----O-
+OO-OOO-O
+
+XXXX----
+X-------
+---X-X--
+--------
+--------
+-OO----O
+O---O-O-
+OO-O-O-O
+
+count minimax: 0
+alpha beta black: 995960
+XXXX----
+X-------
+---X----
+----X---
+--------
+-OO----O
+O---O-O-
+OO-O-O-O
+
+XXXX----
+X-------
+---X----
+----X---
+-O------
+--O----O
+O---O-O-
+OO-O-O-O
+
+count minimax: 0
+alpha beta black: 1021440
+XXXX----
+X-------
+---X----
+--------
+-O-X----
+--O----O
+O---O-O-
+OO-O-O-O
+
+XXXX----
+X-------
+---X----
+--------
+-O-O----
+-------O
+O---O-O-
+OO-O-O-O
+
+count minimax: 0
+alpha beta black: 1043577
+XXXX----
+X-------
+--------
+--X-----
+-O-O----
+-------O
+O---O-O-
+OO-O-O-O
+
+XXXX----
+X-------
+--------
+--O-----
+-O------
+-------O
+O---O-O-
+OO-O-O-O
+
+count minimax: 0
+alpha beta black: 1056434
+XXXX----
+--------
+-X------
+--O-----
+-O------
+-------O
+O---O-O-
+OO-O-O-O
+
+XXXX----
+--------
+-O------
+--------
+-O------
+-------O
+O---O-O-
+OO-O-O-O
+
+count minimax: 0
+alpha beta black: 1063438
+XXX-----
+--X-----
+-O------
+--------
+-O------
+-------O
+O---O-O-
+OO-O-O-O
+
+XXX-----
+--O-----
+--------
+--------
+-O------
+-------O
+O---O-O-
+OO-O-O-O
+
+count minimax: 0
+alpha beta black: 1064745
+X-X-----
+--X-----
+--------
+--------
+-O------
+-------O
+O---O-O-
+OO-O-O-O
+
+X-X-----
+--X-----
+--------
+--------
+-O----O-
+--------
+O---O-O-
+OO-O-O-O
+
+count minimax: 0
+alpha beta black: 1072271
+X-X-----
+--------
+-X------
+--------
+-O----O-
+--------
+O---O-O-
+OO-O-O-O
+
+X-X-----
+--------
+-X------
+------O-
+-O------
+--------
+O---O-O-
+OO-O-O-O
+
+count minimax: 0
+alpha beta black: 1078464
+X-X-----
+--------
+--------
+--X---O-
+-O------
+--------
+O---O-O-
+OO-O-O-O
+
+X-X-----
+--------
+--------
+--O---O-
+--------
+--------
+O---O-O-
+OO-O-O-O
+
+count minimax: 0
+alpha beta black: 1080881
+--X-----
+-X------
+--------
+--O---O-
+--------
+--------
+O---O-O-
+OO-O-O-O
+
+--X-----
+-X------
+-O------
+------O-
+--------
+--------
+O---O-O-
+OO-O-O-O
+
+count minimax: 0
+alpha beta black: 1081015
+--X-----
+--------
+-OX-----
+------O-
+--------
+--------
+O---O-O-
+OO-O-O-O
+
+--X-----
+O-------
+--X-----
+------O-
+--------
+--------
+O---O-O-
+OO-O-O-O
+
+count minimax: 0
+alpha beta black: 1081022
+--X-----
+O-------
+--------
+--X---O-
+--------
+--------
+O---O-O-
+OO-O-O-O
+
+white reach the first line, white wins
+-OX-----
+--------
+--------
+--X---O-
+--------
+--------
+O---O-O-
+OO-O-O-O
+
+Final white color: 10
+Final black color: 2
+Black node expanded: 1081022
+33
+33
+average number of black nodes expanded per move: 32758.2
+total time of black 2.81437
+average amount of time to make a move 0.0852839 second
+White node expanded: 820467
+average number of white nodes expanded per move: 24862
+total time of white 2.13963
+average amount of time to make a move 0.0648372 second
+
+count minimax: 0
+alpha beta black: 36367
+XXXXXXXX
+XXX-XXXX
+---X----
+--------
+--------
+--------
+OOOOOOOO
+OOOOOOOO
+
+XXXXXXXX
+XXX-XXXX
+---X----
+--------
+--------
+----O---
+OOO-OOOO
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 71632
+XXXXXXXX
+XXX-XXX-
+---X---X
+--------
+--------
+----O---
+OOO-OOOO
+OOOOOOOO
+
+XXXXXXXX
+XXX-XXX-
+---X---X
+--------
+----O---
+--------
+OOO-OOOO
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 120336
+XXXXXXXX
+XXX-XXX-
+-------X
+---X----
+----O---
+--------
+OOO-OOOO
+OOOOOOOO
+
+XXXXXXXX
+XXX-XXX-
+-------X
+---O----
+--------
+--------
+OOO-OOOO
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 158527
+XXXXXXXX
+XX--XXX-
+--X----X
+---O----
+--------
+--------
+OOO-OOOO
+OOOOOOOO
+
+XXXXXXXX
+XX--XXX-
+--O----X
+--------
+--------
+--------
+OOO-OOOO
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 176707
+XXXXXXXX
+X---XXX-
+--X----X
+--------
+--------
+--------
+OOO-OOOO
+OOOOOOOO
+
+XXXXXXXX
+X---XXX-
+--X----X
+--------
+--------
+-O------
+-OO-OOOO
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 214178
+XXXXXXXX
+X---XXX-
+-------X
+---X----
+--------
+-O------
+-OO-OOOO
+OOOOOOOO
+
+XXXXXXXX
+X---XXX-
+-------X
+---X----
+--------
+-O---O--
+-OO-OO-O
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 270817
+XXXXXXXX
+X---XXX-
+-------X
+--------
+--X-----
+-O---O--
+-OO-OO-O
+OOOOOOOO
+
+XXXXXXXX
+X---XXX-
+-------X
+--------
+--O-----
+-----O--
+-OO-OO-O
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 323846
+XXXXXXXX
+X---X-X-
+-----X-X
+--------
+--O-----
+-----O--
+-OO-OO-O
+OOOOOOOO
+
+XXXXXXXX
+X---X-X-
+-----X-X
+--------
+--O---O-
+--------
+-OO-OO-O
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 373367
+XXXXXXXX
+X---X-X-
+-----X--
+-------X
+--O---O-
+--------
+-OO-OO-O
+OOOOOOOO
+
+XXXXXXXX
+X---X-X-
+-----X--
+-------O
+--O-----
+--------
+-OO-OO-O
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 420841
+XXXXXXXX
+X---X---
+-----XX-
+-------O
+--O-----
+--------
+-OO-OO-O
+OOOOOOOO
+
+XXXXXXXX
+X---X---
+-----XO-
+--------
+--O-----
+--------
+-OO-OO-O
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 459388
+XXXXX-XX
+X---XX--
+-----XO-
+--------
+--O-----
+--------
+-OO-OO-O
+OOOOOOOO
+
+XXXXX-XX
+X---XO--
+-----X--
+--------
+--O-----
+--------
+-OO-OO-O
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 466215
+XXXX--XX
+X---XX--
+-----X--
+--------
+--O-----
+--------
+-OO-OO-O
+OOOOOOOO
+
+XXXX--XX
+X---XX--
+-----X--
+--------
+--O-----
+--------
+-OO-OOOO
+OOOOOO-O
+
+count minimax: 0
+alpha beta black: 501211
+XXXX--XX
+X---XX--
+--------
+----X---
+--O-----
+--------
+-OO-OOOO
+OOOOOO-O
+
+XXXX--XX
+X---XX--
+--------
+----X---
+--O-----
+--O-----
+--O-OOOO
+OOOOOO-O
+
+count minimax: 0
+alpha beta black: 549510
+XXXX--XX
+X---XX--
+--------
+--------
+--OX----
+--O-----
+--O-OOOO
+OOOOOO-O
+
+XXXX--XX
+X---XX--
+--------
+--------
+--OO----
+--------
+--O-OOOO
+OOOOOO-O
+
+count minimax: 0
+alpha beta black: 588432
+XX-X--XX
+X-X-XX--
+--------
+--------
+--OO----
+--------
+--O-OOOO
+OOOOOO-O
+
+XX-X--XX
+X-X-XX--
+--------
+--------
+--OO----
+----O---
+--O--OOO
+OOOOOO-O
+
+count minimax: 0
+alpha beta black: 620421
+XX-X---X
+X-X-XXX-
+--------
+--------
+--OO----
+----O---
+--O--OOO
+OOOOOO-O
+
+XX-X---X
+X-X-XXX-
+--------
+--------
+--OO----
+----O---
+--OO-OOO
+OO-OOO-O
+
+count minimax: 0
+alpha beta black: 661320
+XX-X---X
+X---XXX-
+-X------
+--------
+--OO----
+----O---
+--OO-OOO
+OO-OOO-O
+
+XX-X---X
+X---XXX-
+-X------
+-O------
+---O----
+----O---
+--OO-OOO
+OO-OOO-O
+
+count minimax: 0
+alpha beta black: 687544
+XX-X---X
+----XXX-
+XX------
+-O------
+---O----
+----O---
+--OO-OOO
+OO-OOO-O
+
+XX-X---X
+----XXX-
+OX------
+--------
+---O----
+----O---
+--OO-OOO
+OO-OOO-O
+
+count minimax: 0
+alpha beta black: 723994
+XX-X---X
+----XXX-
+O-------
+--X-----
+---O----
+----O---
+--OO-OOO
+OO-OOO-O
+
+XX-X---X
+----XXX-
+O-------
+--O-----
+--------
+----O---
+--OO-OOO
+OO-OOO-O
+
+count minimax: 0
+alpha beta black: 744924
+XX-X---X
+-----XX-
+O--X----
+--O-----
+--------
+----O---
+--OO-OOO
+OO-OOO-O
+
+XX-X---X
+-----XX-
+O--O----
+--------
+--------
+----O---
+--OO-OOO
+OO-OOO-O
+
+count minimax: 0
+alpha beta black: 747299
+XX-X---X
+-----X--
+O--O--X-
+--------
+--------
+----O---
+--OO-OOO
+OO-OOO-O
+
+XX-X---X
+---O-X--
+O-----X-
+--------
+--------
+----O---
+--OO-OOO
+OO-OOO-O
+
+count minimax: 0
+alpha beta black: 747314
+XX-X---X
+---O-X--
+O-------
+------X-
+--------
+----O---
+--OO-OOO
+OO-OOO-O
+
+white reach the first line, white wins
+XXOX---X
+-----X--
+O-------
+------X-
+--------
+----O---
+--OO-OOO
+OO-OOO-O
+
+Final white color: 14
+Final black color: 6
+Black node expanded: 747314
+22
+22
+average number of black nodes expanded per move: 33968.8
+total time of black 1.94056
+average amount of time to make a move 0.0882075 second
+White node expanded: 528329
+average number of white nodes expanded per move: 24014
+total time of white 1.39306
+average amount of time to make a move 0.063321 second
+
+count minimax: 0
+alpha beta black: 29700
+XXXXXXXX
+XX-XXXXX
+-X------
+--------
+--------
+--------
+OOOOOOOO
+OOOOOOOO
+
+XXXXXXXX
+XX-XXXXX
+-X------
+--------
+--------
+---O----
+OOO-OOOO
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 71732
+XXXXXXXX
+XX--XXXX
+-X-X----
+--------
+--------
+---O----
+OOO-OOOO
+OOOOOOOO
+
+XXXXXXXX
+XX--XXXX
+-X-X----
+--------
+--------
+---O--O-
+OOO-OOO-
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 123806
+XXXXXXXX
+XX--XXXX
+-X------
+----X---
+--------
+---O--O-
+OOO-OOO-
+OOOOOOOO
+
+XXXXXXXX
+XX--XXXX
+-X------
+----X---
+--------
+---O--OO
+OOO-OO--
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 187651
+XXXXXXXX
+XX--XXXX
+-X------
+--------
+-----X--
+---O--OO
+OOO-OO--
+OOOOOOOO
+
+XXXXXXXX
+XX--XXXX
+-X------
+--------
+-----O--
+---O---O
+OOO-OO--
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 251032
+XXXXXXXX
+XX--XX-X
+-X---X--
+--------
+-----O--
+---O---O
+OOO-OO--
+OOOOOOOO
+
+XXXXXXXX
+XX--XX-X
+-X---X--
+--------
+-----O--
+---O-O-O
+OOO--O--
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 308831
+XXXXXXXX
+XX--XX-X
+-X------
+------X-
+-----O--
+---O-O-O
+OOO--O--
+OOOOOOOO
+
+XXXXXXXX
+XX--XX-X
+-X------
+------O-
+--------
+---O-O-O
+OOO--O--
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 385492
+XXXXXXXX
+XX--XX--
+-X-----X
+------O-
+--------
+---O-O-O
+OOO--O--
+OOOOOOOO
+
+XXXXXXXX
+XX--XX--
+-X-----O
+--------
+--------
+---O-O-O
+OOO--O--
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 413762
+XXXXX-XX
+XX--XXX-
+-X-----O
+--------
+--------
+---O-O-O
+OOO--O--
+OOOOOOOO
+
+XXXXX-XX
+XX--XXO-
+-X------
+--------
+--------
+---O-O-O
+OOO--O--
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 417818
+XXXXX-X-
+XX--XXX-
+-X------
+--------
+--------
+---O-O-O
+OOO--O--
+OOOOOOOO
+
+XXXXX-X-
+XX--XXX-
+-X------
+--------
+--------
+O--O-O-O
+O-O--O--
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 466072
+XXXXX-X-
+XX---XX-
+-X-X----
+--------
+--------
+O--O-O-O
+O-O--O--
+OOOOOOOO
+
+XXXXX-X-
+XX---XX-
+-X-X----
+--------
+-O------
+---O-O-O
+O-O--O--
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 539666
+XXXXX-X-
+XX---XX-
+---X----
+--X-----
+-O------
+---O-O-O
+O-O--O--
+OOOOOOOO
+
+XXXXX-X-
+XX---XX-
+---X----
+--O-----
+--------
+---O-O-O
+O-O--O--
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 566330
+XXXXX-X-
+XX---XX-
+--------
+--X-----
+--------
+---O-O-O
+O-O--O--
+OOOOOOOO
+
+XXXXX-X-
+XX---XX-
+--------
+--X-----
+--------
+---O-O-O
+O-OO-O--
+OOO-OOOO
+
+count minimax: 0
+alpha beta black: 617106
+XXXXX-X-
+XX---XX-
+--------
+--------
+--X-----
+---O-O-O
+O-OO-O--
+OOO-OOOO
+
+XXXXX-X-
+XX---XX-
+--------
+--------
+--O-----
+-----O-O
+O-OO-O--
+OOO-OOOO
+
+count minimax: 0
+alpha beta black: 661971
+XXXXX-X-
+XX---X--
+------X-
+--------
+--O-----
+-----O-O
+O-OO-O--
+OOO-OOOO
+
+XXXXX-X-
+XX---X--
+------X-
+--------
+--O-----
+-----O-O
+O-OO-OO-
+OOO-O-OO
+
+count minimax: 0
+alpha beta black: 700010
+XXXXX-X-
+XX------
+----X-X-
+--------
+--O-----
+-----O-O
+O-OO-OO-
+OOO-O-OO
+
+XXXXX-X-
+XX------
+----X-X-
+--------
+--O-----
+---O-O-O
+O-O--OO-
+OOO-O-OO
+
+count minimax: 0
+alpha beta black: 750621
+XXXXX-X-
+XX------
+------X-
+---X----
+--O-----
+---O-O-O
+O-O--OO-
+OOO-O-OO
+
+XXXXX-X-
+XX------
+------X-
+---O----
+--------
+---O-O-O
+O-O--OO-
+OOO-O-OO
+
+count minimax: 0
+alpha beta black: 786394
+XXXXX-X-
+X-------
+--X---X-
+---O----
+--------
+---O-O-O
+O-O--OO-
+OOO-O-OO
+
+XXXXX-X-
+X-------
+--O---X-
+--------
+--------
+---O-O-O
+O-O--OO-
+OOO-O-OO
+
+count minimax: 0
+alpha beta black: 801932
+-XXXX-X-
+XX------
+--O---X-
+--------
+--------
+---O-O-O
+O-O--OO-
+OOO-O-OO
+
+-XXXX-X-
+XO------
+------X-
+--------
+--------
+---O-O-O
+O-O--OO-
+OOO-O-OO
+
+count minimax: 0
+alpha beta black: 804320
+-X-XX-X-
+XX------
+------X-
+--------
+--------
+---O-O-O
+O-O--OO-
+OOO-O-OO
+
+-X-XX-X-
+XX------
+------X-
+--------
+--------
+O--O-O-O
+--O--OO-
+OOO-O-OO
+
+count minimax: 0
+alpha beta black: 827617
+-X-X--X-
+XX-X----
+------X-
+--------
+--------
+O--O-O-O
+--O--OO-
+OOO-O-OO
+
+-X-X--X-
+XX-X----
+------X-
+--------
+--------
+O--O-O-O
+--O-OOO-
+OOO---OO
+
+count minimax: 0
+alpha beta black: 854282
+-X-X--X-
+-X-X----
+-X----X-
+--------
+--------
+O--O-O-O
+--O-OOO-
+OOO---OO
+
+-X-X--X-
+-X-X----
+-X----X-
+--------
+---O----
+O----O-O
+--O-OOO-
+OOO---OO
+
+count minimax: 0
+alpha beta black: 883586
+-X-X----
+-X-X-X--
+-X----X-
+--------
+---O----
+O----O-O
+--O-OOO-
+OOO---OO
+
+-X-X----
+-X-X-X--
+-X----X-
+--------
+---O----
+O----OOO
+--O-OO--
+OOO---OO
+
+count minimax: 0
+alpha beta black: 929991
+-X-X----
+-X-X-X--
+------X-
+--X-----
+---O----
+O----OOO
+--O-OO--
+OOO---OO
+
+-X-X----
+-X-X-X--
+------X-
+--O-----
+--------
+O----OOO
+--O-OO--
+OOO---OO
+
+count minimax: 0
+alpha beta black: 957269
+-X-X----
+---X-X--
+-X----X-
+--O-----
+--------
+O----OOO
+--O-OO--
+OOO---OO
+
+-X-X----
+---X-X--
+-O----X-
+--------
+--------
+O----OOO
+--O-OO--
+OOO---OO
+
+count minimax: 0
+alpha beta black: 958963
+-X-X----
+---X-X--
+-O------
+------X-
+--------
+O----OOO
+--O-OO--
+OOO---OO
+
+-X-X----
+-O-X-X--
+--------
+------X-
+--------
+O----OOO
+--O-OO--
+OOO---OO
+
+count minimax: 0
+alpha beta black: 958977
+-X-X----
+-O-X-X--
+--------
+--------
+------X-
+O----OOO
+--O-OO--
+OOO---OO
+
+white reach the first line, white wins
+OX-X----
+---X-X--
+--------
+--------
+------X-
+O----OOO
+--O-OO--
+OOO---OO
+
+Final white color: 13
+Final black color: 5
+Black node expanded: 958977
+26
+26
+average number of black nodes expanded per move: 36883.7
+total time of black 2.46843
+average amount of time to make a move 0.0949397 second
+White node expanded: 720247
+average number of white nodes expanded per move: 27701
+total time of white 1.85842
+average amount of time to make a move 0.0714778 second
+
+count minimax: 0
+alpha beta black: 29135
+XXXXXXXX
+X-XXXXXX
+-X------
+--------
+--------
+--------
+OOOOOOOO
+OOOOOOOO
+
+XXXXXXXX
+X-XXXXXX
+-X------
+--------
+--------
+-O------
+O-OOOOOO
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 63384
+XXXXXXXX
+X-XXXX-X
+-X----X-
+--------
+--------
+-O------
+O-OOOOOO
+OOOOOOOO
+
+XXXXXXXX
+X-XXXX-X
+-X----X-
+--------
+--------
+-O--O---
+O-OO-OOO
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 106091
+XXXXXXXX
+X-XXXX-X
+-X------
+-----X--
+--------
+-O--O---
+O-OO-OOO
+OOOOOOOO
+
+XXXXXXXX
+X-XXXX-X
+-X------
+-----X--
+-----O--
+-O------
+O-OO-OOO
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 154358
+X-XXXXXX
+XXXXXX-X
+-X------
+-----X--
+-----O--
+-O------
+O-OO-OOO
+OOOOOOOO
+
+X-XXXXXX
+XXXXXX-X
+-X------
+-----X--
+-----O--
+-O-O----
+O--O-OOO
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 209303
+X-XXXXXX
+XXXXXX-X
+-X------
+--------
+----XO--
+-O-O----
+O--O-OOO
+OOOOOOOO
+
+X-XXXXXX
+XXXXXX-X
+-X------
+--------
+----OO--
+-O------
+O--O-OOO
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 258025
+X-XXXX-X
+XXXXXXXX
+-X------
+--------
+----OO--
+-O------
+O--O-OOO
+OOOOOOOO
+
+X-XXXX-X
+XXXXXXXX
+-X------
+--------
+--O-OO--
+--------
+O--O-OOO
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 322057
+X-XXXX-X
+XXXXXXXX
+--------
+-X------
+--O-OO--
+--------
+O--O-OOO
+OOOOOOOO
+
+X-XXXX-X
+XXXXXXXX
+--------
+-O------
+----OO--
+--------
+O--O-OOO
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 347566
+X-XXXX-X
+-XXXXXXX
+X-------
+-O------
+----OO--
+--------
+O--O-OOO
+OOOOOOOO
+
+X-XXXX-X
+-XXXXXXX
+O-------
+--------
+----OO--
+--------
+O--O-OOO
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 355054
+X-XXXX-X
+--XXXXXX
+X-------
+--------
+----OO--
+--------
+O--O-OOO
+OOOOOOOO
+
+X-XXXX-X
+--XXXXXX
+X-------
+----O---
+----O---
+--------
+O--O-OOO
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 390286
+X-XXXX-X
+--X-XXXX
+X--X----
+----O---
+----O---
+--------
+O--O-OOO
+OOOOOOOO
+
+X-XXXX-X
+--X-XXXX
+X--O----
+--------
+----O---
+--------
+O--O-OOO
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 404874
+X-XXXX-X
+--X--XXX
+X--X----
+--------
+----O---
+--------
+O--O-OOO
+OOOOOOOO
+
+X-XXXX-X
+--X--XXX
+X--X----
+---O----
+--------
+--------
+O--O-OOO
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 436701
+X-XXXX-X
+--X---XX
+X--XX---
+---O----
+--------
+--------
+O--O-OOO
+OOOOOOOO
+
+X-XXXX-X
+--X---XX
+X--XO---
+--------
+--------
+--------
+O--O-OOO
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 455772
+X-XXX--X
+--X--XXX
+X--XO---
+--------
+--------
+--------
+O--O-OOO
+OOOOOOOO
+
+X-XXX--X
+--X--OXX
+X--X----
+--------
+--------
+--------
+O--O-OOO
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 458721
+X-XX---X
+--X--XXX
+X--X----
+--------
+--------
+--------
+O--O-OOO
+OOOOOOOO
+
+X-XX---X
+--X--XXX
+X--X----
+--------
+--------
+-O------
+---O-OOO
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 489126
+X-XX---X
+--X--X-X
+X--X-X--
+--------
+--------
+-O------
+---O-OOO
+OOOOOOOO
+
+X-XX---X
+--X--X-X
+X--X-X--
+--------
+--------
+-O-----O
+---O-OO-
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 535850
+X-XX---X
+--X--X-X
+X--X----
+------X-
+--------
+-O-----O
+---O-OO-
+OOOOOOOO
+
+X-XX---X
+--X--X-X
+X--X----
+------X-
+--------
+-O--O--O
+-----OO-
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 580102
+X-XX---X
+--X--X-X
+X--X----
+--------
+-----X--
+-O--O--O
+-----OO-
+OOOOOOOO
+
+X-XX---X
+--X--X-X
+X--X----
+--------
+-----O--
+-O-----O
+-----OO-
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 621226
+X-XX---X
+-----X-X
+X-XX----
+--------
+-----O--
+-O-----O
+-----OO-
+OOOOOOOO
+
+X-XX---X
+-----X-X
+X-XX----
+------O-
+--------
+-O-----O
+-----OO-
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 664591
+X-XX---X
+-----X--
+X-XX---X
+------O-
+--------
+-O-----O
+-----OO-
+OOOOOOOO
+
+X-XX---X
+-----X--
+X-XX---O
+--------
+--------
+-O-----O
+-----OO-
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 667067
+X-XX---X
+-----X--
+X-X----O
+---X----
+--------
+-O-----O
+-----OO-
+OOOOOOOO
+
+X-XX---X
+-----X-O
+X-X-----
+---X----
+--------
+-O-----O
+-----OO-
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 667087
+X-XX---X
+-----X-O
+X-X-----
+--------
+---X----
+-O-----O
+-----OO-
+OOOOOOOO
+
+white reach the first line, white wins
+X-XX--OX
+-----X--
+X-X-----
+--------
+---X----
+-O-----O
+-----OO-
+OOOOOOOO
+
+Final white color: 13
+Final black color: 8
+Black node expanded: 667087
+21
+21
+average number of black nodes expanded per move: 31766
+total time of black 1.69152
+average amount of time to make a move 0.0805485 second
+White node expanded: 604870
+average number of white nodes expanded per move: 28803
+total time of white 1.54107
+average amount of time to make a move 0.0733844 second
+
+count minimax: 0
+alpha beta black: 35346
+XXXXXXXX
+XXXXX-XX
+-----X--
+--------
+--------
+--------
+OOOOOOOO
+OOOOOOOO
+
+XXXXXXXX
+XXXXX-XX
+-----X--
+--------
+--------
+--O-----
+O-OOOOOO
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 72555
+XXXXXXXX
+X-XXX-XX
+X----X--
+--------
+--------
+--O-----
+O-OOOOOO
+OOOOOOOO
+
+XXXXXXXX
+X-XXX-XX
+X----X--
+--------
+--------
+--O---O-
+O-OOO-OO
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 112296
+XXXXXX-X
+X-XXXXXX
+X----X--
+--------
+--------
+--O---O-
+O-OOO-OO
+OOOOOOOO
+
+XXXXXX-X
+X-XXXXXX
+X----X--
+--------
+--------
+--O---O-
+OOOOO-OO
+OO-OOOOO
+
+count minimax: 0
+alpha beta black: 139836
+XXXXXX-X
+--XXXXXX
+XX---X--
+--------
+--------
+--O---O-
+OOOOO-OO
+OO-OOOOO
+
+XXXXXX-X
+--XXXXXX
+XX---X--
+--------
+--------
+--O--OO-
+OOOO--OO
+OO-OOOOO
+
+count minimax: 0
+alpha beta black: 190236
+XXXXXX-X
+--XXXXX-
+XX---X-X
+--------
+--------
+--O--OO-
+OOOO--OO
+OO-OOOOO
+
+XXXXXX-X
+--XXXXX-
+XX---X-X
+--------
+------O-
+--O--O--
+OOOO--OO
+OO-OOOOO
+
+count minimax: 0
+alpha beta black: 243143
+XXXXXX-X
+--XXXXX-
+XX-----X
+------X-
+------O-
+--O--O--
+OOOO--OO
+OO-OOOOO
+
+XXXXXX-X
+--XXXXX-
+XX-----X
+------X-
+---O--O-
+-----O--
+OOOO--OO
+OO-OOOOO
+
+count minimax: 0
+alpha beta black: 309377
+XXXXXX-X
+--XXX-X-
+XX--X--X
+------X-
+---O--O-
+-----O--
+OOOO--OO
+OO-OOOOO
+
+XXXXXX-X
+--XXX-X-
+XX--X--X
+------X-
+---O--O-
+O----O--
+O-OO--OO
+OO-OOOOO
+
+count minimax: 0
+alpha beta black: 389112
+XXXXXX-X
+--XXX-X-
+XX-----X
+----X-X-
+---O--O-
+O----O--
+O-OO--OO
+OO-OOOOO
+
+XXXXXX-X
+--XXX-X-
+XX-----X
+----O-X-
+------O-
+O----O--
+O-OO--OO
+OO-OOOOO
+
+count minimax: 0
+alpha beta black: 444946
+XXXXXX-X
+--XX--X-
+XX---X-X
+----O-X-
+------O-
+O----O--
+O-OO--OO
+OO-OOOOO
+
+XXXXXX-X
+--XX--X-
+XX---O-X
+------X-
+------O-
+O----O--
+O-OO--OO
+OO-OOOOO
+
+count minimax: 0
+alpha beta black: 475593
+XXXXXX-X
+--XX----
+XX---X-X
+------X-
+------O-
+O----O--
+O-OO--OO
+OO-OOOOO
+
+XXXXXX-X
+--XX----
+XX---X-X
+------X-
+------O-
+O----O--
+OOOO--OO
+-O-OOOOO
+
+count minimax: 0
+alpha beta black: 533782
+XXXXXX-X
+--XX----
+XX---X--
+------XX
+------O-
+O----O--
+OOOO--OO
+-O-OOOOO
+
+XXXXXX-X
+--XX----
+XX---X--
+------XO
+--------
+O----O--
+OOOO--OO
+-O-OOOOO
+
+count minimax: 0
+alpha beta black: 607564
+XXXXXX-X
+--XX----
+XX---X--
+-------O
+------X-
+O----O--
+OOOO--OO
+-O-OOOOO
+
+XXXXXX-X
+--XX----
+XX---X--
+-------O
+------O-
+O-------
+OOOO--OO
+-O-OOOOO
+
+count minimax: 0
+alpha beta black: 662953
+XXXXXX-X
+--XX----
+XX------
+-----X-O
+------O-
+O-------
+OOOO--OO
+-O-OOOOO
+
+XXXXXX-X
+--XX----
+XX------
+-----O-O
+--------
+O-------
+OOOO--OO
+-O-OOOOO
+
+count minimax: 0
+alpha beta black: 726465
+XXXXXX-X
+--X-----
+XX--X---
+-----O-O
+--------
+O-------
+OOOO--OO
+-O-OOOOO
+
+XXXXXX-X
+--X-----
+XX--O---
+-------O
+--------
+O-------
+OOOO--OO
+-O-OOOOO
+
+count minimax: 0
+alpha beta black: 752699
+XXX-XX-X
+--XX----
+XX--O---
+-------O
+--------
+O-------
+OOOO--OO
+-O-OOOOO
+
+XXX-XX-X
+--XO----
+XX------
+-------O
+--------
+O-------
+OOOO--OO
+-O-OOOOO
+
+count minimax: 0
+alpha beta black: 760130
+XX--XX-X
+--XX----
+XX------
+-------O
+--------
+O-------
+OOOO--OO
+-O-OOOOO
+
+XX--XX-X
+--XX----
+XX------
+-------O
+--------
+O-------
+OOOO-OOO
+-O-OO-OO
+
+count minimax: 0
+alpha beta black: 795052
+XX--XX-X
+--XX----
+X-------
+X------O
+--------
+O-------
+OOOO-OOO
+-O-OO-OO
+
+XX--XX-X
+--XX----
+X-------
+X------O
+--------
+O------O
+OOOO-O-O
+-O-OO-OO
+
+count minimax: 0
+alpha beta black: 831140
+XX--XX-X
+---X----
+X--X----
+X------O
+--------
+O------O
+OOOO-O-O
+-O-OO-OO
+
+XX--XX-X
+---X----
+X--X----
+X------O
+--------
+O-----OO
+OOOO-O--
+-O-OO-OO
+
+count minimax: 0
+alpha beta black: 877093
+XX--XX-X
+---X----
+X--X----
+-------O
+-X------
+O-----OO
+OOOO-O--
+-O-OO-OO
+
+XX--XX-X
+---X----
+X--X----
+-------O
+-O------
+------OO
+OOOO-O--
+-O-OO-OO
+
+count minimax: 0
+alpha beta black: 925417
+XX--XX-X
+---X----
+X-------
+--X----O
+-O------
+------OO
+OOOO-O--
+-O-OO-OO
+
+XX--XX-X
+---X----
+X-------
+--O----O
+--------
+------OO
+OOOO-O--
+-O-OO-OO
+
+count minimax: 0
+alpha beta black: 966537
+XX--XX-X
+--------
+X--X----
+--O----O
+--------
+------OO
+OOOO-O--
+-O-OO-OO
+
+XX--XX-X
+--------
+X--O----
+-------O
+--------
+------OO
+OOOO-O--
+-O-OO-OO
+
+count minimax: 0
+alpha beta black: 985395
+XX--XX--
+------X-
+X--O----
+-------O
+--------
+------OO
+OOOO-O--
+-O-OO-OO
+
+XX--XX--
+------X-
+X--O----
+-------O
+--------
+----O-OO
+OOO--O--
+-O-OO-OO
+
+count minimax: 0
+alpha beta black: 1003199
+XX--XX--
+--------
+X--O--X-
+-------O
+--------
+----O-OO
+OOO--O--
+-O-OO-OO
+
+XX--XX--
+--------
+X--O--O-
+--------
+--------
+----O-OO
+OOO--O--
+-O-OO-OO
+
+count minimax: 0
+alpha beta black: 1004994
+XX--XX--
+--------
+---O--O-
+X-------
+--------
+----O-OO
+OOO--O--
+-O-OO-OO
+
+XX--XX--
+-------O
+---O----
+X-------
+--------
+----O-OO
+OOO--O--
+-O-OO-OO
+
+count minimax: 0
+alpha beta black: 1005008
+XX--XX--
+-------O
+---O----
+--------
+X-------
+----O-OO
+OOO--O--
+-O-OO-OO
+
+white reach the first line, white wins
+XX--XXO-
+--------
+---O----
+--------
+X-------
+----O-OO
+OOO--O--
+-O-OO-OO
+
+Final white color: 14
+Final black color: 5
+Black node expanded: 1005008
+25
+25
+average number of black nodes expanded per move: 40200.3
+total time of black 2.60659
+average amount of time to make a move 0.104263 second
+White node expanded: 767425
+average number of white nodes expanded per move: 30697
+total time of white 1.99901
+average amount of time to make a move 0.0799604 second
+
+count minimax: 0
+alpha beta black: 36553
+XXXXXXXX
+XXXXXX-X
+-------X
+--------
+--------
+--------
+OOOOOOOO
+OOOOOOOO
+
+XXXXXXXX
+XXXXXX-X
+-------X
+--------
+--------
+O-------
+O-OOOOOO
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 78564
+XXXXXXXX
+XXXXXX-X
+--------
+-------X
+--------
+O-------
+O-OOOOOO
+OOOOOOOO
+
+XXXXXXXX
+XXXXXX-X
+--------
+-------X
+-O------
+--------
+O-OOOOOO
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 140772
+XXXXXXXX
+XXXXXX--
+-------X
+-------X
+-O------
+--------
+O-OOOOOO
+OOOOOOOO
+
+XXXXXXXX
+XXXXXX--
+-------X
+-------X
+-O------
+------O-
+O-OOOO-O
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 211525
+XXXXXXXX
+XXXXX---
+------XX
+-------X
+-O------
+------O-
+O-OOOO-O
+OOOOOOOO
+
+XXXXXXXX
+XXXXX---
+------XX
+-------X
+-O-----O
+--------
+O-OOOO-O
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 268215
+XXXXXXXX
+XXXXX---
+-------X
+------XX
+-O-----O
+--------
+O-OOOO-O
+OOOOOOOO
+
+XXXXXXXX
+XXXXX---
+-------X
+------OX
+-O------
+--------
+O-OOOO-O
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 298494
+XXXXXXXX
+XXXXX---
+--------
+------XX
+-O------
+--------
+O-OOOO-O
+OOOOOOOO
+
+XXXXXXXX
+XXXXX---
+--------
+------XX
+-O------
+------O-
+O-OOOO--
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 395419
+XXXXXXXX
+XXXXX---
+--------
+------X-
+-O-----X
+------O-
+O-OOOO--
+OOOOOOOO
+
+XXXXXXXX
+XXXXX---
+--------
+------X-
+-O-----O
+--------
+O-OOOO--
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 436999
+XXXXXXXX
+XXXXX---
+--------
+--------
+-O-----X
+--------
+O-OOOO--
+OOOOOOOO
+
+XXXXXXXX
+XXXXX---
+--------
+--------
+-O-----X
+O-------
+--OOOO--
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 484217
+XXXXXXXX
+XXXX----
+-----X--
+--------
+-O-----X
+O-------
+--OOOO--
+OOOOOOOO
+
+XXXXXXXX
+XXXX----
+-----X--
+--------
+-O-----X
+O-------
+--OOOOO-
+OOOOO-OO
+
+count minimax: 0
+alpha beta black: 546781
+XXXXXXXX
+X-XX----
+--X--X--
+--------
+-O-----X
+O-------
+--OOOOO-
+OOOOO-OO
+
+XXXXXXXX
+X-XX----
+--X--X--
+--------
+-O-----X
+O---O---
+--O-OOO-
+OOOOO-OO
+
+count minimax: 0
+alpha beta black: 615070
+XXXXXXXX
+X--X----
+--XX-X--
+--------
+-O-----X
+O---O---
+--O-OOO-
+OOOOO-OO
+
+XXXXXXXX
+X--X----
+--XX-X--
+--------
+-O-----X
+O---O-O-
+--O-OO--
+OOOOO-OO
+
+count minimax: 0
+alpha beta black: 713257
+XXXXXXXX
+X--X----
+--XX-X--
+--------
+-O------
+O---O-X-
+--O-OO--
+OOOOO-OO
+
+XXXXXXXX
+X--X----
+--XX-X--
+--------
+-O------
+O---O-O-
+--O-O---
+OOOOO-OO
+
+count minimax: 0
+alpha beta black: 788100
+XXXXXXXX
+X--X----
+---X-X--
+--X-----
+-O------
+O---O-O-
+--O-O---
+OOOOO-OO
+
+XXXXXXXX
+X--X----
+---X-X--
+--O-----
+--------
+O---O-O-
+--O-O---
+OOOOO-OO
+
+count minimax: 0
+alpha beta black: 824896
+XXXXXXXX
+X--X----
+-----X--
+--X-----
+--------
+O---O-O-
+--O-O---
+OOOOO-OO
+
+XXXXXXXX
+X--X----
+-----X--
+--X-----
+--------
+O---O-O-
+--O-O-O-
+OOOOO-O-
+
+count minimax: 0
+alpha beta black: 906850
+XXXXXXXX
+X--X----
+-----X--
+--------
+---X----
+O---O-O-
+--O-O-O-
+OOOOO-O-
+
+XXXXXXXX
+X--X----
+-----X--
+--------
+---O----
+O-----O-
+--O-O-O-
+OOOOO-O-
+
+count minimax: 0
+alpha beta black: 964287
+XXXXXXXX
+X--X----
+--------
+----X---
+---O----
+O-----O-
+--O-O-O-
+OOOOO-O-
+
+XXXXXXXX
+X--X----
+--------
+----O---
+--------
+O-----O-
+--O-O-O-
+OOOOO-O-
+
+count minimax: 0
+alpha beta black: 999408
+XXXXXXXX
+X-------
+--X-----
+----O---
+--------
+O-----O-
+--O-O-O-
+OOOOO-O-
+
+XXXXXXXX
+X-------
+--X-----
+----O---
+O-------
+------O-
+--O-O-O-
+OOOOO-O-
+
+count minimax: 0
+alpha beta black: 1065130
+XXXXXXXX
+X-------
+--------
+-X--O---
+O-------
+------O-
+--O-O-O-
+OOOOO-O-
+
+XXXXXXXX
+X-------
+--------
+-O--O---
+--------
+------O-
+--O-O-O-
+OOOOO-O-
+
+count minimax: 0
+alpha beta black: 1111511
+XXXXXXXX
+--------
+X-------
+-O--O---
+--------
+------O-
+--O-O-O-
+OOOOO-O-
+
+XXXXXXXX
+--------
+O-------
+----O---
+--------
+------O-
+--O-O-O-
+OOOOO-O-
+
+count minimax: 0
+alpha beta black: 1127638
+XX-XXXXX
+-X------
+O-------
+----O---
+--------
+------O-
+--O-O-O-
+OOOOO-O-
+
+XX-XXXXX
+-O------
+--------
+----O---
+--------
+------O-
+--O-O-O-
+OOOOO-O-
+
+count minimax: 0
+alpha beta black: 1130149
+-X-XXXXX
+-X------
+--------
+----O---
+--------
+------O-
+--O-O-O-
+OOOOO-O-
+
+-X-XXXXX
+-X------
+--------
+----O---
+--------
+------O-
+--OOO-O-
+OO-OO-O-
+
+count minimax: 0
+alpha beta black: 1161895
+-X-XXXXX
+--------
+--X-----
+----O---
+--------
+------O-
+--OOO-O-
+OO-OO-O-
+
+-X-XXXXX
+--------
+--X-----
+----O---
+--------
+------O-
+--OOOOO-
+OO-O--O-
+
+count minimax: 0
+alpha beta black: 1188553
+-X-XX-XX
+-----X--
+--X-----
+----O---
+--------
+------O-
+--OOOOO-
+OO-O--O-
+
+-X-XX-XX
+-----X--
+--X-----
+----O---
+-------O
+--------
+--OOOOO-
+OO-O--O-
+
+count minimax: 0
+alpha beta black: 1219716
+-X-XX-XX
+--------
+--X-X---
+----O---
+-------O
+--------
+--OOOOO-
+OO-O--O-
+
+-X-XX-XX
+--------
+--X-X---
+----O---
+-------O
+---O----
+--O-OOO-
+OO-O--O-
+
+count minimax: 0
+alpha beta black: 1253016
+-X-XX-X-
+-------X
+--X-X---
+----O---
+-------O
+---O----
+--O-OOO-
+OO-O--O-
+
+-X-XX-X-
+-------X
+--X-X---
+----O---
+--O----O
+--------
+--O-OOO-
+OO-O--O-
+
+count minimax: 0
+alpha beta black: 1289362
+-X-XX-X-
+-------X
+----X---
+---XO---
+--O----O
+--------
+--O-OOO-
+OO-O--O-
+
+-X-XX-X-
+-------X
+----X---
+---OO---
+-------O
+--------
+--O-OOO-
+OO-O--O-
+
+count minimax: 0
+alpha beta black: 1305102
+-X-XX-X-
+-------X
+--------
+---XO---
+-------O
+--------
+--O-OOO-
+OO-O--O-
+
+-X-XX-X-
+-------X
+--------
+---XO---
+-------O
+----O---
+--O-O-O-
+OO-O--O-
+
+count minimax: 0
+alpha beta black: 1331342
+-X-XX-X-
+-------X
+--------
+----O---
+---X---O
+----O---
+--O-O-O-
+OO-O--O-
+
+-X-XX-X-
+-------X
+--------
+----O---
+---O---O
+--------
+--O-O-O-
+OO-O--O-
+
+count minimax: 0
+alpha beta black: 1348961
+-X-XX---
+------XX
+--------
+----O---
+---O---O
+--------
+--O-O-O-
+OO-O--O-
+
+-X-XX---
+------XX
+---O----
+--------
+---O---O
+--------
+--O-O-O-
+OO-O--O-
+
+count minimax: 0
+alpha beta black: 1355741
+---XX---
+--X---XX
+---O----
+--------
+---O---O
+--------
+--O-O-O-
+OO-O--O-
+
+---XX---
+--O---XX
+--------
+--------
+---O---O
+--------
+--O-O-O-
+OO-O--O-
+
+count minimax: 0
+alpha beta black: 1357750
+----X---
+--X---XX
+--------
+--------
+---O---O
+--------
+--O-O-O-
+OO-O--O-
+
+----X---
+--X---XX
+--------
+--------
+---O---O
+-----O--
+--O-O---
+OO-O--O-
+
+count minimax: 0
+alpha beta black: 1364209
+--------
+--XX--XX
+--------
+--------
+---O---O
+-----O--
+--O-O---
+OO-O--O-
+
+--------
+--XX--XX
+--------
+--------
+---O---O
+--O--O--
+----O---
+OO-O--O-
+
+count minimax: 0
+alpha beta black: 1373712
+--------
+--XX---X
+------X-
+--------
+---O---O
+--O--O--
+----O---
+OO-O--O-
+
+--------
+--XX---X
+------X-
+--------
+---O--OO
+--O-----
+----O---
+OO-O--O-
+
+count minimax: 0
+alpha beta black: 1384974
+--------
+--XX---X
+--------
+-----X--
+---O--OO
+--O-----
+----O---
+OO-O--O-
+
+--------
+--XX---X
+--------
+-----O--
+---O---O
+--O-----
+----O---
+OO-O--O-
+
+count minimax: 0
+alpha beta black: 1393020
+--------
+--X----X
+----X---
+-----O--
+---O---O
+--O-----
+----O---
+OO-O--O-
+
+--------
+--X----X
+----O---
+--------
+---O---O
+--O-----
+----O---
+OO-O--O-
+
+count minimax: 0
+alpha beta black: 1393306
+--------
+--X-----
+----O--X
+--------
+---O---O
+--O-----
+----O---
+OO-O--O-
+
+--------
+--XO----
+-------X
+--------
+---O---O
+--O-----
+----O---
+OO-O--O-
+
+count minimax: 0
+alpha beta black: 1393312
+--------
+--XO----
+--------
+-------X
+---O---O
+--O-----
+----O---
+OO-O--O-
+
+white reach the first line, white wins
+--O-----
+--X-----
+--------
+-------X
+---O---O
+--O-----
+----O---
+OO-O--O-
+
+Final white color: 9
+Final black color: 2
+Black node expanded: 1393312
+37
+37
+average number of black nodes expanded per move: 37657.1
+total time of black 3.60237
+average amount of time to make a move 0.0973612 second
+White node expanded: 1134919
+average number of white nodes expanded per move: 30673
+total time of white 2.97177
+average amount of time to make a move 0.0803182 second
+
+count minimax: 0
+alpha beta black: 22973
+XXXXXXXX
+XXXXX-XX
+------X-
+--------
+--------
+--------
+OOOOOOOO
+OOOOOOOO
+
+XXXXXXXX
+XXXXX-XX
+------X-
+--------
+--------
+----O---
+OOOOO-OO
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 63121
+XXXXXXXX
+XXXX--XX
+-----XX-
+--------
+--------
+----O---
+OOOOO-OO
+OOOOOOOO
+
+XXXXXXXX
+XXXX--XX
+-----XX-
+--------
+--------
+-O--O---
+O-OOO-OO
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 106272
+XXXXXXXX
+X-XX--XX
+-X---XX-
+--------
+--------
+-O--O---
+O-OOO-OO
+OOOOOOOO
+
+XXXXXXXX
+X-XX--XX
+-X---XX-
+--------
+--------
+-O--O---
+OOOOO-OO
+-OOOOOOO
+
+count minimax: 0
+alpha beta black: 154842
+XXXXXXXX
+X--X--XX
+-X-X-XX-
+--------
+--------
+-O--O---
+OOOOO-OO
+-OOOOOOO
+
+XXXXXXXX
+X--X--XX
+-X-X-XX-
+--------
+O-------
+----O---
+OOOOO-OO
+-OOOOOOO
+
+count minimax: 0
+alpha beta black: 212933
+XXXXXXXX
+X--X--XX
+---X-XX-
+-X------
+O-------
+----O---
+OOOOO-OO
+-OOOOOOO
+
+XXXXXXXX
+X--X--XX
+---X-XX-
+-O------
+--------
+----O---
+OOOOO-OO
+-OOOOOOO
+
+count minimax: 0
+alpha beta black: 278014
+XXXXXXXX
+X-----XX
+--XX-XX-
+-O------
+--------
+----O---
+OOOOO-OO
+-OOOOOOO
+
+XXXXXXXX
+X-----XX
+--OX-XX-
+--------
+--------
+----O---
+OOOOO-OO
+-OOOOOOO
+
+count minimax: 0
+alpha beta black: 297354
+XX-XXXXX
+X--X--XX
+--OX-XX-
+--------
+--------
+----O---
+OOOOO-OO
+-OOOOOOO
+
+XX-XXXXX
+X--O--XX
+---X-XX-
+--------
+--------
+----O---
+OOOOO-OO
+-OOOOOOO
+
+count minimax: 0
+alpha beta black: 301841
+XX-X-XXX
+X--X--XX
+---X-XX-
+--------
+--------
+----O---
+OOOOO-OO
+-OOOOOOO
+
+XX-X-XXX
+X--X--XX
+---X-XX-
+--------
+--------
+--O-O---
+OO-OO-OO
+-OOOOOOO
+
+count minimax: 0
+alpha beta black: 349150
+XX-X-XXX
+X--X--XX
+---X--X-
+----X---
+--------
+--O-O---
+OO-OO-OO
+-OOOOOOO
+
+XX-X-XXX
+X--X--XX
+---X--X-
+----X---
+---O----
+--O-----
+OO-OO-OO
+-OOOOOOO
+
+count minimax: 0
+alpha beta black: 378676
+XX-X-XXX
+X--X--XX
+---X--X-
+--------
+---X----
+--O-----
+OO-OO-OO
+-OOOOOOO
+
+XX-X-XXX
+X--X--XX
+---X--X-
+--------
+---O----
+--------
+OO-OO-OO
+-OOOOOOO
+
+count minimax: 0
+alpha beta black: 421166
+XX-X-XXX
+X--X--XX
+------X-
+----X---
+---O----
+--------
+OO-OO-OO
+-OOOOOOO
+
+XX-X-XXX
+X--X--XX
+------X-
+----O---
+--------
+--------
+OO-OO-OO
+-OOOOOOO
+
+count minimax: 0
+alpha beta black: 453798
+XX-X-XXX
+X--X---X
+-----XX-
+----O---
+--------
+--------
+OO-OO-OO
+-OOOOOOO
+
+XX-X-XXX
+X--X---X
+-----OX-
+--------
+--------
+--------
+OO-OO-OO
+-OOOOOOO
+
+count minimax: 0
+alpha beta black: 476758
+XX-X--XX
+X--XX--X
+-----OX-
+--------
+--------
+--------
+OO-OO-OO
+-OOOOOOO
+
+XX-X--XX
+X--XO--X
+------X-
+--------
+--------
+--------
+OO-OO-OO
+-OOOOOOO
+
+count minimax: 0
+alpha beta black: 479124
+XX----XX
+X--XX--X
+------X-
+--------
+--------
+--------
+OO-OO-OO
+-OOOOOOO
+
+XX----XX
+X--XX--X
+------X-
+--------
+--------
+--------
+OO-OOOOO
+-OOO-OOO
+
+count minimax: 0
+alpha beta black: 502960
+XX----XX
+X--XX---
+------XX
+--------
+--------
+--------
+OO-OOOOO
+-OOO-OOO
+
+XX----XX
+X--XX---
+------XX
+--------
+--------
+------O-
+OO-OOO-O
+-OOO-OOO
+
+count minimax: 0
+alpha beta black: 539020
+XX----XX
+X--X----
+-----XXX
+--------
+--------
+------O-
+OO-OOO-O
+-OOO-OOO
+
+XX----XX
+X--X----
+-----XXX
+--------
+-----O--
+--------
+OO-OOO-O
+-OOO-OOO
+
+count minimax: 0
+alpha beta black: 575228
+XX----XX
+X--X----
+-----XX-
+------X-
+-----O--
+--------
+OO-OOO-O
+-OOO-OOO
+
+XX----XX
+X--X----
+-----XX-
+------O-
+--------
+--------
+OO-OOO-O
+-OOO-OOO
+
+count minimax: 0
+alpha beta black: 592871
+XX----XX
+X--X----
+------X-
+------X-
+--------
+--------
+OO-OOO-O
+-OOO-OOO
+
+XX----XX
+X--X----
+------X-
+------X-
+--------
+--O-----
+O--OOO-O
+-OOO-OOO
+
+count minimax: 0
+alpha beta black: 614693
+XX----XX
+X--X----
+------X-
+--------
+-----X--
+--O-----
+O--OOO-O
+-OOO-OOO
+
+XX----XX
+X--X----
+------X-
+--------
+-----X--
+--O---O-
+O--OOO--
+-OOO-OOO
+
+count minimax: 0
+alpha beta black: 644215
+XX----XX
+X--X----
+------X-
+--------
+--------
+--O---X-
+O--OOO--
+-OOO-OOO
+
+XX----XX
+X--X----
+------X-
+--------
+--------
+--O---O-
+O--OO---
+-OOO-OOO
+
+count minimax: 0
+alpha beta black: 660435
+XX----XX
+---X----
+-X----X-
+--------
+--------
+--O---O-
+O--OO---
+-OOO-OOO
+
+XX----XX
+---X----
+-X----X-
+--------
+--------
+O-O---O-
+---OO---
+-OOO-OOO
+
+count minimax: 0
+alpha beta black: 682147
+-X----XX
+-X-X----
+-X----X-
+--------
+--------
+O-O---O-
+---OO---
+-OOO-OOO
+
+-X----XX
+-X-X----
+-X----X-
+--------
+O-------
+--O---O-
+---OO---
+-OOO-OOO
+
+count minimax: 0
+alpha beta black: 711344
+-X----XX
+-X-X----
+------X-
+-X------
+O-------
+--O---O-
+---OO---
+-OOO-OOO
+
+-X----XX
+-X-X----
+------X-
+-O------
+--------
+--O---O-
+---OO---
+-OOO-OOO
+
+count minimax: 0
+alpha beta black: 739117
+-X----XX
+-X------
+--X---X-
+-O------
+--------
+--O---O-
+---OO---
+-OOO-OOO
+
+-X----XX
+-X------
+--O---X-
+--------
+--------
+--O---O-
+---OO---
+-OOO-OOO
+
+count minimax: 0
+alpha beta black: 742413
+-X----XX
+--------
+--X---X-
+--------
+--------
+--O---O-
+---OO---
+-OOO-OOO
+
+-X----XX
+--------
+--X---X-
+--------
+-------O
+--O-----
+---OO---
+-OOO-OOO
+
+count minimax: 0
+alpha beta black: 760515
+-X----XX
+--------
+--X-----
+-------X
+-------O
+--O-----
+---OO---
+-OOO-OOO
+
+-X----XX
+--------
+--X-----
+-------X
+--O----O
+--------
+---OO---
+-OOO-OOO
+
+count minimax: 0
+alpha beta black: 773140
+-X----XX
+--------
+--------
+---X---X
+--O----O
+--------
+---OO---
+-OOO-OOO
+
+-X----XX
+--------
+--------
+---O---X
+-------O
+--------
+---OO---
+-OOO-OOO
+
+count minimax: 0
+alpha beta black: 780283
+------XX
+--X-----
+--------
+---O---X
+-------O
+--------
+---OO---
+-OOO-OOO
+
+------XX
+--X-----
+--------
+---O---X
+-------O
+--------
+--OOO---
+--OO-OOO
+
+count minimax: 0
+alpha beta black: 789863
+------XX
+--------
+--X-----
+---O---X
+-------O
+--------
+--OOO---
+--OO-OOO
+
+------XX
+--------
+--O-----
+-------X
+-------O
+--------
+--OOO---
+--OO-OOO
+
+count minimax: 0
+alpha beta black: 790200
+------XX
+--------
+--O-----
+--------
+------XO
+--------
+--OOO---
+--OO-OOO
+
+------XX
+-O------
+--------
+--------
+------XO
+--------
+--OOO---
+--OO-OOO
+
+count minimax: 0
+alpha beta black: 790209
+------XX
+-O------
+--------
+--------
+-------O
+------X-
+--OOO---
+--OO-OOO
+
+white reach the first line, white wins
+O-----XX
+--------
+--------
+--------
+-------O
+------X-
+--OOO---
+--OO-OOO
+
+Final white color: 10
+Final black color: 3
+Black node expanded: 790209
+31
+31
+average number of black nodes expanded per move: 25490.6
+total time of black 1.9926
+average amount of time to make a move 0.0642773 second
+White node expanded: 655731
+average number of white nodes expanded per move: 21152
+total time of white 1.69822
+average amount of time to make a move 0.0547814 second
+
+count minimax: 0
+alpha beta black: 36161
+XXXXXXXX
+XXXX-XXX
+-----X--
+--------
+--------
+--------
+OOOOOOOO
+OOOOOOOO
+
+XXXXXXXX
+XXXX-XXX
+-----X--
+--------
+--------
+O-------
+O-OOOOOO
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 74431
+XXXXXXXX
+X-XX-XXX
+X----X--
+--------
+--------
+O-------
+O-OOOOOO
+OOOOOOOO
+
+XXXXXXXX
+X-XX-XXX
+X----X--
+--------
+--------
+O-----O-
+O-OOOO-O
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 124879
+XXXXXXXX
+X-XX--XX
+X----XX-
+--------
+--------
+O-----O-
+O-OOOO-O
+OOOOOOOO
+
+XXXXXXXX
+X-XX--XX
+X----XX-
+--------
+-O------
+------O-
+O-OOOO-O
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 182581
+XXXXXXXX
+X-XX--XX
+-----XX-
+X-------
+-O------
+------O-
+O-OOOO-O
+OOOOOOOO
+
+XXXXXXXX
+X-XX--XX
+-----XX-
+O-------
+--------
+------O-
+O-OOOO-O
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 224449
+XXXXXXXX
+X--X--XX
+-X---XX-
+O-------
+--------
+------O-
+O-OOOO-O
+OOOOOOOO
+
+XXXXXXXX
+X--X--XX
+-O---XX-
+--------
+--------
+------O-
+O-OOOO-O
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 240626
+XXXXXXXX
+---X--XX
+-X---XX-
+--------
+--------
+------O-
+O-OOOO-O
+OOOOOOOO
+
+XXXXXXXX
+---X--XX
+-X---XX-
+--------
+--------
+----O-O-
+O-OOO--O
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 296944
+XXXXXXXX
+---X--XX
+-----XX-
+X-------
+--------
+----O-O-
+O-OOO--O
+OOOOOOOO
+
+XXXXXXXX
+---X--XX
+-----XX-
+X-------
+--------
+---OO-O-
+O-O-O--O
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 350977
+XXXXXXXX
+---X--XX
+------X-
+X---X---
+--------
+---OO-O-
+O-O-O--O
+OOOOOOOO
+
+XXXXXXXX
+---X--XX
+------X-
+X---X---
+-----O--
+---OO---
+O-O-O--O
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 406338
+XXXXXXXX
+---X--XX
+------X-
+X-------
+-----X--
+---OO---
+O-O-O--O
+OOOOOOOO
+
+XXXXXXXX
+---X--XX
+------X-
+X-------
+-----O--
+---O----
+O-O-O--O
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 450659
+-XXXXXXX
+X--X--XX
+------X-
+X-------
+-----O--
+---O----
+O-O-O--O
+OOOOOOOO
+
+-XXXXXXX
+X--X--XX
+------X-
+X-------
+-----O--
+--OO----
+O---O--O
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 516481
+-XXXXXXX
+X--X--XX
+------X-
+--------
+-X---O--
+--OO----
+O---O--O
+OOOOOOOO
+
+-XXXXXXX
+X--X--XX
+------X-
+--------
+-O---O--
+---O----
+O---O--O
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 582650
+-XXXX-XX
+X--X-XXX
+------X-
+--------
+-O---O--
+---O----
+O---O--O
+OOOOOOOO
+
+-XXXX-XX
+X--X-XXX
+------X-
+--------
+-O---O--
+---O----
+OO--O--O
+-OOOOOOO
+
+count minimax: 0
+alpha beta black: 641802
+-XXXX-XX
+X--X-XXX
+--------
+------X-
+-O---O--
+---O----
+OO--O--O
+-OOOOOOO
+
+-XXXX-XX
+X--X-XXX
+--------
+------O-
+-O------
+---O----
+OO--O--O
+-OOOOOOO
+
+count minimax: 0
+alpha beta black: 696941
+-XXXX-XX
+X--X--XX
+-----X--
+------O-
+-O------
+---O----
+OO--O--O
+-OOOOOOO
+
+-XXXX-XX
+X--X--XX
+-----O--
+--------
+-O------
+---O----
+OO--O--O
+-OOOOOOO
+
+count minimax: 0
+alpha beta black: 721925
+-XXXX-XX
+X--X---X
+-----X--
+--------
+-O------
+---O----
+OO--O--O
+-OOOOOOO
+
+-XXXX-XX
+X--X---X
+-----X--
+--------
+-O------
+---O--O-
+OO--O---
+-OOOOOOO
+
+count minimax: 0
+alpha beta black: 770980
+-XXXX-XX
+X------X
+---X-X--
+--------
+-O------
+---O--O-
+OO--O---
+-OOOOOOO
+
+-XXXX-XX
+X------X
+---X-X--
+--------
+-OO-----
+------O-
+OO--O---
+-OOOOOOO
+
+count minimax: 0
+alpha beta black: 825486
+-XXXX-XX
+X------X
+-----X--
+---X----
+-OO-----
+------O-
+OO--O---
+-OOOOOOO
+
+-XXXX-XX
+X------X
+-----X--
+---O----
+-O------
+------O-
+OO--O---
+-OOOOOOO
+
+count minimax: 0
+alpha beta black: 892730
+-XXXX-XX
+X-------
+-----X-X
+---O----
+-O------
+------O-
+OO--O---
+-OOOOOOO
+
+-XXXX-XX
+X-------
+---O-X-X
+--------
+-O------
+------O-
+OO--O---
+-OOOOOOO
+
+count minimax: 0
+alpha beta black: 909833
+--XXX-XX
+X-X-----
+---O-X-X
+--------
+-O------
+------O-
+OO--O---
+-OOOOOOO
+
+--XXX-XX
+X-O-----
+-----X-X
+--------
+-O------
+------O-
+OO--O---
+-OOOOOOO
+
+count minimax: 0
+alpha beta black: 915439
+--X-X-XX
+X-X-----
+-----X-X
+--------
+-O------
+------O-
+OO--O---
+-OOOOOOO
+
+--X-X-XX
+X-X-----
+-----X-X
+--------
+-O------
+-----OO-
+OO------
+-OOOOOOO
+
+count minimax: 0
+alpha beta black: 957838
+--X-X-XX
+X-------
+-X---X-X
+--------
+-O------
+-----OO-
+OO------
+-OOOOOOO
+
+--X-X-XX
+X-------
+-X---X-X
+--------
+-O------
+-----OO-
+OO----O-
+-OOOO-OO
+
+count minimax: 0
+alpha beta black: 996114
+--X-X-XX
+X-------
+-----X-X
+--X-----
+-O------
+-----OO-
+OO----O-
+-OOOO-OO
+
+--X-X-XX
+X-------
+-----X-X
+--O-----
+--------
+-----OO-
+OO----O-
+-OOOO-OO
+
+count minimax: 0
+alpha beta black: 1033423
+--X-X-XX
+X-------
+-------X
+--O---X-
+--------
+-----OO-
+OO----O-
+-OOOO-OO
+
+--X-X-XX
+X-------
+-------X
+--O---X-
+--------
+-----OO-
+OO---OO-
+-OOO--OO
+
+count minimax: 0
+alpha beta black: 1065823
+--X-X-XX
+X-------
+-------X
+--O-----
+-----X--
+-----OO-
+OO---OO-
+-OOO--OO
+
+--X-X-XX
+X-------
+-------X
+--O-----
+-----O--
+-----O--
+OO---OO-
+-OOO--OO
+
+count minimax: 0
+alpha beta black: 1091853
+--X-X-XX
+X-------
+--------
+--O---X-
+-----O--
+-----O--
+OO---OO-
+-OOO--OO
+
+--X-X-XX
+X-------
+--------
+--O---O-
+--------
+-----O--
+OO---OO-
+-OOO--OO
+
+count minimax: 0
+alpha beta black: 1109460
+--X-X-XX
+--------
+-X------
+--O---O-
+--------
+-----O--
+OO---OO-
+-OOO--OO
+
+--X-X-XX
+--------
+-O------
+------O-
+--------
+-----O--
+OO---OO-
+-OOO--OO
+
+count minimax: 0
+alpha beta black: 1110143
+--X-X-X-
+-------X
+-O------
+------O-
+--------
+-----O--
+OO---OO-
+-OOO--OO
+
+--X-X-X-
+O------X
+--------
+------O-
+--------
+-----O--
+OO---OO-
+-OOO--OO
+
+count minimax: 0
+alpha beta black: 1110154
+--X-X-X-
+O-------
+-------X
+------O-
+--------
+-----O--
+OO---OO-
+-OOO--OO
+
+white reach the first line, white wins
+-OX-X-X-
+--------
+-------X
+------O-
+--------
+-----O--
+OO---OO-
+-OOO--OO
+
+Final white color: 12
+Final black color: 4
+Black node expanded: 1110154
+28
+28
+average number of black nodes expanded per move: 39648.4
+total time of black 2.79287
+average amount of time to make a move 0.0997452 second
+White node expanded: 871054
+average number of white nodes expanded per move: 31109
+total time of white 2.20063
+average amount of time to make a move 0.078594 second
+
+count minimax: 0
+alpha beta black: 42245
+XXXXXXXX
+XXXXX-XX
+------X-
+--------
+--------
+--------
+OOOOOOOO
+OOOOOOOO
+
+XXXXXXXX
+XXXXX-XX
+------X-
+--------
+--------
+-------O
+OOOOOO-O
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 82936
+XXXXXXXX
+XXXXX--X
+-----XX-
+--------
+--------
+-------O
+OOOOOO-O
+OOOOOOOO
+
+XXXXXXXX
+XXXXX--X
+-----XX-
+--------
+------O-
+--------
+OOOOOO-O
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 156381
+XXXXXXXX
+XXXXX--X
+------X-
+-----X--
+------O-
+--------
+OOOOOO-O
+OOOOOOOO
+
+XXXXXXXX
+XXXXX--X
+------X-
+-----O--
+--------
+--------
+OOOOOO-O
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 182733
+XXXXXXXX
+XXXXX--X
+--------
+-----X--
+--------
+--------
+OOOOOO-O
+OOOOOOOO
+
+XXXXXXXX
+XXXXX--X
+--------
+-----X--
+--------
+----O---
+OOO-OO-O
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 229043
+XXXXXXXX
+XXXXX--X
+--------
+--------
+-----X--
+----O---
+OOO-OO-O
+OOOOOOOO
+
+XXXXXXXX
+XXXXX--X
+--------
+--------
+-----O--
+--------
+OOO-OO-O
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 279038
+XXXXXXXX
+XXX-X--X
+---X----
+--------
+-----O--
+--------
+OOO-OO-O
+OOOOOOOO
+
+XXXXXXXX
+XXX-X--X
+---X----
+--------
+-----O--
+---O----
+OO--OO-O
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 325158
+XXXXXXXX
+XXX-X--X
+--------
+----X---
+-----O--
+---O----
+OO--OO-O
+OOOOOOOO
+
+XXXXXXXX
+XXX-X--X
+--------
+----O---
+--------
+---O----
+OO--OO-O
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 376919
+XXXXXXXX
+XXX----X
+---X----
+----O---
+--------
+---O----
+OO--OO-O
+OOOOOOOO
+
+XXXXXXXX
+XXX----X
+---O----
+--------
+--------
+---O----
+OO--OO-O
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 400319
+XXXXXXXX
+XX-----X
+---X----
+--------
+--------
+---O----
+OO--OO-O
+OOOOOOOO
+
+XXXXXXXX
+XX-----X
+---X----
+--------
+--------
+---OO---
+OO---O-O
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 460307
+XXXXXXXX
+X------X
+X--X----
+--------
+--------
+---OO---
+OO---O-O
+OOOOOOOO
+
+XXXXXXXX
+X------X
+X--X----
+--------
+--------
+---OO-O-
+OO---O--
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 508013
+XXX-XXXX
+X---X--X
+X--X----
+--------
+--------
+---OO-O-
+OO---O--
+OOOOOOOO
+
+XXX-XXXX
+X---X--X
+X--X----
+--------
+--------
+-O-OO-O-
+-O---O--
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 577552
+XXX-XXXX
+X---X--X
+---X----
+X-------
+--------
+-O-OO-O-
+-O---O--
+OOOOOOOO
+
+XXX-XXXX
+X---X--X
+---X----
+X-------
+----O---
+-O-O--O-
+-O---O--
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 651249
+XXX-XXXX
+X---X--X
+--------
+X--X----
+----O---
+-O-O--O-
+-O---O--
+OOOOOOOO
+
+XXX-XXXX
+X---X--X
+--------
+X--O----
+--------
+-O-O--O-
+-O---O--
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 716405
+XXX-XXXX
+X------X
+----X---
+X--O----
+--------
+-O-O--O-
+-O---O--
+OOOOOOOO
+
+XXX-XXXX
+X------X
+----O---
+X-------
+--------
+-O-O--O-
+-O---O--
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 745266
+XXX-XX-X
+X----X-X
+----O---
+X-------
+--------
+-O-O--O-
+-O---O--
+OOOOOOOO
+
+XXX-XX-X
+X----O-X
+--------
+X-------
+--------
+-O-O--O-
+-O---O--
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 749715
+XXX--X-X
+X----X-X
+--------
+X-------
+--------
+-O-O--O-
+-O---O--
+OOOOOOOO
+
+XXX--X-X
+X----X-X
+--------
+X-------
+--------
+-O-O--O-
+-O---O-O
+OOOOOO-O
+
+count minimax: 0
+alpha beta black: 778842
+XXX----X
+X---XX-X
+--------
+X-------
+--------
+-O-O--O-
+-O---O-O
+OOOOOO-O
+
+XXX----X
+X---XX-X
+--------
+X-------
+--------
+-O-O-OO-
+-O-----O
+OOOOOO-O
+
+count minimax: 0
+alpha beta black: 817768
+XXX----X
+X---XX--
+------X-
+X-------
+--------
+-O-O-OO-
+-O-----O
+OOOOOO-O
+
+XXX----X
+X---XX--
+------X-
+X-------
+--------
+OO-O-OO-
+-------O
+OOOOOO-O
+
+count minimax: 0
+alpha beta black: 884469
+XXX----X
+X---XX--
+------X-
+--------
+X-------
+OO-O-OO-
+-------O
+OOOOOO-O
+
+XXX----X
+X---XX--
+------X-
+--------
+O-------
+O--O-OO-
+-------O
+OOOOOO-O
+
+count minimax: 0
+alpha beta black: 920511
+XXX----X
+----XX--
+-X----X-
+--------
+O-------
+O--O-OO-
+-------O
+OOOOOO-O
+
+XXX----X
+----XX--
+-X----X-
+--------
+O----O--
+O--O-O--
+-------O
+OOOOOO-O
+
+count minimax: 0
+alpha beta black: 968322
+XXX----X
+----XX--
+-X------
+------X-
+O----O--
+O--O-O--
+-------O
+OOOOOO-O
+
+XXX----X
+----XX--
+-X------
+------O-
+O-------
+O--O-O--
+-------O
+OOOOOO-O
+
+count minimax: 0
+alpha beta black: 1013274
+XXX----X
+-----X--
+-X---X--
+------O-
+O-------
+O--O-O--
+-------O
+OOOOOO-O
+
+XXX----X
+-----X--
+-X---O--
+--------
+O-------
+O--O-O--
+-------O
+OOOOOO-O
+
+count minimax: 0
+alpha beta black: 1014568
+XXX----X
+-----X--
+-----O--
+-X------
+O-------
+O--O-O--
+-------O
+OOOOOO-O
+
+XXX----X
+----OX--
+--------
+-X------
+O-------
+O--O-O--
+-------O
+OOOOOO-O
+
+count minimax: 0
+alpha beta black: 1014585
+XXX----X
+----OX--
+--------
+--------
+OX------
+O--O-O--
+-------O
+OOOOOO-O
+
+white reach the first line, white wins
+XXXO---X
+-----X--
+--------
+--------
+OX------
+O--O-O--
+-------O
+OOOOOO-O
+
+Final white color: 13
+Final black color: 6
+Black node expanded: 1014585
+24
+24
+average number of black nodes expanded per move: 42274.4
+total time of black 2.68913
+average amount of time to make a move 0.112047 second
+White node expanded: 716775
+average number of white nodes expanded per move: 29865
+total time of white 1.89818
+average amount of time to make a move 0.0790908 second
+
+count minimax: 0
+alpha beta black: 31751
+XXXXXXXX
+XX-XXXXX
+--X-----
+--------
+--------
+--------
+OOOOOOOO
+OOOOOOOO
+
+XXXXXXXX
+XX-XXXXX
+--X-----
+--------
+--------
+--O-----
+OOO-OOOO
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 70488
+XXXXXXXX
+XX-XXXXX
+--------
+-X------
+--------
+--O-----
+OOO-OOOO
+OOOOOOOO
+
+XXXXXXXX
+XX-XXXXX
+--------
+-X------
+--------
+O-O-----
+-OO-OOOO
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 124176
+XXXXXXXX
+XX-XXXXX
+--------
+--------
+-X------
+O-O-----
+-OO-OOOO
+OOOOOOOO
+
+XXXXXXXX
+XX-XXXXX
+--------
+--------
+-O------
+--O-----
+-OO-OOOO
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 168187
+XXXXXXXX
+XX-XX-XX
+-----X--
+--------
+-O------
+--O-----
+-OO-OOOO
+OOOOOOOO
+
+XXXXXXXX
+XX-XX-XX
+-----X--
+--------
+-O------
+--O---O-
+-OO-O-OO
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 219543
+XXXXXXXX
+XX-XX-XX
+--------
+------X-
+-O------
+--O---O-
+-OO-O-OO
+OOOOOOOO
+
+XXXXXXXX
+XX-XX-XX
+--------
+------X-
+-O------
+--O--OO-
+-OO---OO
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 287857
+XXXXXXXX
+XX-XX-XX
+--------
+--------
+-O-----X
+--O--OO-
+-OO---OO
+OOOOOOOO
+
+XXXXXXXX
+XX-XX-XX
+--------
+--------
+-O-----O
+--O--O--
+-OO---OO
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 325039
+XXXXXXXX
+-X-XX-XX
+-X------
+--------
+-O-----O
+--O--O--
+-OO---OO
+OOOOOOOO
+
+XXXXXXXX
+-X-XX-XX
+-X------
+--------
+-O-----O
+-OO--O--
+--O---OO
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 406531
+XXXXXXXX
+-X-XX-XX
+--------
+--X-----
+-O-----O
+-OO--O--
+--O---OO
+OOOOOOOO
+
+XXXXXXXX
+-X-XX-XX
+--------
+--O-----
+-------O
+-OO--O--
+--O---OO
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 447204
+XXXXXXXX
+---XX-XX
+-X------
+--O-----
+-------O
+-OO--O--
+--O---OO
+OOOOOOOO
+
+XXXXXXXX
+---XX-XX
+-O------
+--------
+-------O
+-OO--O--
+--O---OO
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 465821
+-XXXXXXX
+X--XX-XX
+-O------
+--------
+-------O
+-OO--O--
+--O---OO
+OOOOOOOO
+
+-XXXXXXX
+O--XX-XX
+--------
+--------
+-------O
+-OO--O--
+--O---OO
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 470843
+--XXXXXX
+X--XX-XX
+--------
+--------
+-------O
+-OO--O--
+--O---OO
+OOOOOOOO
+
+--XXXXXX
+X--XX-XX
+--------
+--------
+-------O
+-OO--O--
+--OO--OO
+OO-OOOOO
+
+count minimax: 0
+alpha beta black: 513294
+--XXXXXX
+X--X--XX
+----X---
+--------
+-------O
+-OO--O--
+--OO--OO
+OO-OOOOO
+
+--XXXXXX
+X--X--XX
+----X---
+--------
+----O--O
+-OO-----
+--OO--OO
+OO-OOOOO
+
+count minimax: 0
+alpha beta black: 565394
+--XXXXXX
+X--X---X
+----X-X-
+--------
+----O--O
+-OO-----
+--OO--OO
+OO-OOOOO
+
+--XXXXXX
+X--X---X
+----X-X-
+--------
+----O--O
+-OO--O--
+--OO---O
+OO-OOOOO
+
+count minimax: 0
+alpha beta black: 641236
+--XXXXXX
+X--X---X
+----X---
+-----X--
+----O--O
+-OO--O--
+--OO---O
+OO-OOOOO
+
+--XXXXXX
+X--X---X
+----X---
+-----O--
+-------O
+-OO--O--
+--OO---O
+OO-OOOOO
+
+count minimax: 0
+alpha beta black: 687769
+--XXXXXX
+X--X---X
+--------
+-----X--
+-------O
+-OO--O--
+--OO---O
+OO-OOOOO
+
+--XXXXXX
+X--X---X
+--------
+-----X--
+---O---O
+-O---O--
+--OO---O
+OO-OOOOO
+
+count minimax: 0
+alpha beta black: 728933
+---XXXXX
+X-XX---X
+--------
+-----X--
+---O---O
+-O---O--
+--OO---O
+OO-OOOOO
+
+---XXXXX
+X-XX---X
+--------
+-----X--
+---O---O
+-O---O-O
+--OO----
+OO-OOOOO
+
+count minimax: 0
+alpha beta black: 787000
+---XXXXX
+X-XX---X
+--------
+--------
+---OX--O
+-O---O-O
+--OO----
+OO-OOOOO
+
+---XXXXX
+X-XX---X
+--------
+--------
+---OO--O
+-O-----O
+--OO----
+OO-OOOOO
+
+count minimax: 0
+alpha beta black: 842877
+---XXXXX
+X-XX----
+-------X
+--------
+---OO--O
+-O-----O
+--OO----
+OO-OOOOO
+
+---XXXXX
+X-XX----
+-------X
+--------
+---OO--O
+-O-----O
+-OOO----
+O--OOOOO
+
+count minimax: 0
+alpha beta black: 910937
+---XXXXX
+X-X-----
+---X---X
+--------
+---OO--O
+-O-----O
+-OOO----
+O--OOOOO
+
+---XXXXX
+X-X-----
+---X---X
+----O---
+---O---O
+-O-----O
+-OOO----
+O--OOOOO
+
+count minimax: 0
+alpha beta black: 944768
+---XXXXX
+X-X-----
+-------X
+----X---
+---O---O
+-O-----O
+-OOO----
+O--OOOOO
+
+---XXXXX
+X-X-----
+-------X
+----O---
+-------O
+-O-----O
+-OOO----
+O--OOOOO
+
+count minimax: 0
+alpha beta black: 991304
+---XXXXX
+X-------
+---X---X
+----O---
+-------O
+-O-----O
+-OOO----
+O--OOOOO
+
+---XXXXX
+X-------
+---O---X
+--------
+-------O
+-O-----O
+-OOO----
+O--OOOOO
+
+count minimax: 0
+alpha beta black: 1004245
+---XX-XX
+X---X---
+---O---X
+--------
+-------O
+-O-----O
+-OOO----
+O--OOOOO
+
+---XX-XX
+X---O---
+-------X
+--------
+-------O
+-O-----O
+-OOO----
+O--OOOOO
+
+count minimax: 0
+alpha beta black: 1007568
+----X-XX
+X---X---
+-------X
+--------
+-------O
+-O-----O
+-OOO----
+O--OOOOO
+
+----X-XX
+X---X---
+-------X
+-------O
+--------
+-O-----O
+-OOO----
+O--OOOOO
+
+count minimax: 0
+alpha beta black: 1028694
+----X-XX
+X-------
+----X--X
+-------O
+--------
+-O-----O
+-OOO----
+O--OOOOO
+
+----X-XX
+X-------
+----X--X
+-------O
+--------
+-O-O---O
+-OO-----
+O--OOOOO
+
+count minimax: 0
+alpha beta black: 1053974
+----X-XX
+X-------
+-------X
+-----X-O
+--------
+-O-O---O
+-OO-----
+O--OOOOO
+
+----X-XX
+X-------
+-------X
+-----X-O
+--------
+-OOO---O
+-O------
+O--OOOOO
+
+count minimax: 0
+alpha beta black: 1077533
+----X-XX
+X-------
+-------X
+-------O
+------X-
+-OOO---O
+-O------
+O--OOOOO
+
+----X-XX
+X-------
+-------X
+-------O
+------O-
+-OOO----
+-O------
+O--OOOOO
+
+count minimax: 0
+alpha beta black: 1090497
+----X-XX
+--------
+-X-----X
+-------O
+------O-
+-OOO----
+-O------
+O--OOOOO
+
+----X-XX
+--------
+-X-----X
+-------O
+------O-
+-OOO----
+-O-O----
+O--O-OOO
+
+count minimax: 0
+alpha beta black: 1109075
+------XX
+----X---
+-X-----X
+-------O
+------O-
+-OOO----
+-O-O----
+O--O-OOO
+
+------XX
+----X---
+-X-----X
+-------O
+O-----O-
+--OO----
+-O-O----
+O--O-OOO
+
+count minimax: 0
+alpha beta black: 1125575
+------XX
+----X---
+-------X
+-X-----O
+O-----O-
+--OO----
+-O-O----
+O--O-OOO
+
+------XX
+----X---
+-------X
+-O-----O
+------O-
+--OO----
+-O-O----
+O--O-OOO
+
+count minimax: 0
+alpha beta black: 1139913
+------XX
+----X---
+--------
+-O----XO
+------O-
+--OO----
+-O-O----
+O--O-OOO
+
+------XX
+----X---
+--------
+-O----XO
+-O----O-
+---O----
+-O-O----
+O--O-OOO
+
+count minimax: 0
+alpha beta black: 1159243
+------XX
+----X---
+--------
+-O-----O
+-O---XO-
+---O----
+-O-O----
+O--O-OOO
+
+------XX
+----X---
+--------
+-O-----O
+-O---XO-
+---O----
+-OOO----
+O----OOO
+
+count minimax: 0
+alpha beta black: 1176532
+-------X
+----XX--
+--------
+-O-----O
+-O---XO-
+---O----
+-OOO----
+O----OOO
+
+-------X
+----XX--
+--------
+-O-----O
+-O---XO-
+--OO----
+-O-O----
+O----OOO
+
+count minimax: 0
+alpha beta black: 1194311
+-------X
+----XX--
+--------
+-O-----O
+-O----O-
+--OOX---
+-O-O----
+O----OOO
+
+-------X
+----XX--
+--------
+-O-----O
+-O----O-
+--OOO---
+-O------
+O----OOO
+
+count minimax: 0
+alpha beta black: 1206624
+-------X
+----X---
+------X-
+-O-----O
+-O----O-
+--OOO---
+-O------
+O----OOO
+
+-------X
+----X---
+------O-
+-O------
+-O----O-
+--OOO---
+-O------
+O----OOO
+
+count minimax: 0
+alpha beta black: 1206950
+-------X
+--------
+----X-O-
+-O------
+-O----O-
+--OOO---
+-O------
+O----OOO
+
+-------X
+-----O--
+----X---
+-O------
+-O----O-
+--OOO---
+-O------
+O----OOO
+
+count minimax: 0
+alpha beta black: 1206956
+-------X
+-----O--
+--------
+-O--X---
+-O----O-
+--OOO---
+-O------
+O----OOO
+
+white reach the first line, white wins
+----O--X
+--------
+--------
+-O--X---
+-O----O-
+--OOO---
+-O------
+O----OOO
+
+Final white color: 12
+Final black color: 2
+Black node expanded: 1206956
+36
+36
+average number of black nodes expanded per move: 33526.6
+total time of black 3.04504
+average amount of time to make a move 0.0845846 second
+White node expanded: 1013109
+average number of white nodes expanded per move: 28141
+total time of white 2.54136
+average amount of time to make a move 0.0705934 second
+
+Black win: 0
+White win: 10
+
+average number of black nodes expanded per move: 35417
+average amount of time to make a move 0.0911259 second
+average number of white nodes expanded per move: 27701.7
+average amount of time to make a move 0.0716359 second

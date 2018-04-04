@@ -1,0 +1,111 @@
+count minimax: 0
+alpha beta black: 29704
+XXXXXXXX
+XX-XXXXX
+---X----
+--------
+--------
+--------
+OOOOOOOO
+OOOOOOOO
+
+XXXXXXXX
+XX-XXXXX
+---X----
+--------
+--------
+---O----
+OOO-OOOO
+OOOOOOOO
+
+count minimax: 0
+alpha beta black: 67422
+XXXXXXXX
+XX-XXXX-
+---X---X
+--------
+--------
+---O----
+OOO-OOOO
+OOOOOOOO
+
+XXXXXXXX
+XX-XXXX-
+---X---X
+--------
+--------
+---O----
+OOOOOOOO
+OOOO-OOO
+
+count minimax: 0
+alpha beta black: 89592
+XXX-XXXX
+XXXXXXX-
+---X---X
+--------
+--------
+---O----
+OOOOOOOO
+OOOO-OOO
+
+XXX-XXXX
+XXXXXXX-
+---X---X
+--------
+--------
+---O-O--
+OOOOOO-O
+OOOO-OOO
+
+count minimax: 0
+alpha beta black: 124011
+XXX-XXXX
+XXXX-XX-
+---XX--X
+--------
+--------
+---O-O--
+OOOOOO-O
+OOOO-OOO
+
+XXX-XXXX
+XXXX-XX-
+---XX--X
+--------
+--------
+---OOO--
+OOO-OO-O
+OOOO-OOO
+
+count minimax: 0
+alpha beta black: 156134
+XXX-XXXX
+XXXX-X--
+---XX-XX
+--------
+--------
+---OOO--
+OOO-OO-O
+OOOO-OOO
+
+XXX-XXXX
+XXXX-X--
+---XX-XX
+--------
+--------
+---OOOO-
+OOO-O--O
+OOOO-OOO
+
+count minimax: 0
+alpha beta black: 197290
+XXX-XXX-
+XXXX-X-X
+---XX-XX
+--------
+--------
+---OOOO-
+OOO-O--O
+OOOO-OOO
+

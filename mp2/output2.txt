@@ -1,0 +1,147 @@
+white reach the first line, white wins
+Final white color: 7
+Final black color: 14
+Black node expanded: 868956
+40
+40
+average number of black nodes expanded per move: 21723.9
+total time of black 2.33088
+average amount of time to make a move 0.0582719 second
+White node expanded: 668599
+average number of white nodes expanded per move: 16714
+total time of white 4.08595
+average amount of time to make a move 0.102149 second
+
+white reach the first line, white wins
+Final white color: 9
+Final black color: 16
+Black node expanded: 538842
+31
+31
+average number of black nodes expanded per move: 17382
+total time of black 1.34535
+average amount of time to make a move 0.0433982 second
+White node expanded: 237706
+average number of white nodes expanded per move: 7667
+total time of white 1.36176
+average amount of time to make a move 0.0439277 second
+
+black reach the last line, black wins
+Final white color: 4
+Final black color: 16
+Black node expanded: 1377675
+47
+46
+average number of black nodes expanded per move: 29312.2
+total time of black 3.57322
+average amount of time to make a move 0.076026 second
+White node expanded: 726780
+average number of white nodes expanded per move: 15799
+total time of white 4.28914
+average amount of time to make a move 0.0932423 second
+
+white reach the first line, white wins
+Final white color: 9
+Final black color: 16
+Black node expanded: 665619
+35
+35
+average number of black nodes expanded per move: 19017.7
+total time of black 1.70923
+average amount of time to make a move 0.048835 second
+White node expanded: 335710
+average number of white nodes expanded per move: 9591
+total time of white 1.97692
+average amount of time to make a move 0.0564833 second
+
+white reach the first line, white wins
+Final white color: 11
+Final black color: 16
+Black node expanded: 403197
+23
+23
+average number of black nodes expanded per move: 17530.3
+total time of black 1.041
+average amount of time to make a move 0.0452608 second
+White node expanded: 198101
+average number of white nodes expanded per move: 8613
+total time of white 1.20153
+average amount of time to make a move 0.0522403 second
+
+black reach the last line, black wins
+Final white color: 4
+Final black color: 16
+Black node expanded: 670186
+42
+41
+average number of black nodes expanded per move: 15956.8
+total time of black 1.70087
+average amount of time to make a move 0.0404969 second
+White node expanded: 383383
+average number of white nodes expanded per move: 9350
+total time of white 2.23155
+average amount of time to make a move 0.054428 second
+
+white reach the first line, white wins
+Final white color: 7
+Final black color: 15
+Black node expanded: 632713
+38
+38
+average number of black nodes expanded per move: 16650.3
+total time of black 1.64233
+average amount of time to make a move 0.0432193 second
+White node expanded: 359625
+average number of white nodes expanded per move: 9463
+total time of white 2.14302
+average amount of time to make a move 0.0563952 second
+
+white reach the first line, white wins
+Final white color: 9
+Final black color: 16
+Black node expanded: 538460
+31
+31
+average number of black nodes expanded per move: 17369.7
+total time of black 1.40914
+average amount of time to make a move 0.0454561 second
+White node expanded: 219716
+average number of white nodes expanded per move: 7087
+total time of white 1.33408
+average amount of time to make a move 0.0430349 second
+
+white reach the first line, white wins
+Final white color: 9
+Final black color: 16
+Black node expanded: 520516
+29
+29
+average number of black nodes expanded per move: 17948.8
+total time of black 1.35452
+average amount of time to make a move 0.0467076 second
+White node expanded: 243970
+average number of white nodes expanded per move: 8412
+total time of white 1.39891
+average amount of time to make a move 0.0482382 second
+
+white reach the first line, white wins
+Final white color: 10
+Final black color: 16
+Black node expanded: 491085
+27
+27
+average number of black nodes expanded per move: 18188.3
+total time of black 1.22569
+average amount of time to make a move 0.0453959 second
+White node expanded: 219706
+average number of white nodes expanded per move: 8137
+total time of white 1.27383
+average amount of time to make a move 0.0471788 second
+
+Black win: 2
+White win: 8
+
+average number of black nodes expanded per move: 19107.5
+average amount of time to make a move 0.0493068 second
+average number of white nodes expanded per move: 10083.3
+average amount of time to make a move 0.0597317 second
